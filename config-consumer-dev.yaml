@@ -2,6 +2,6 @@ info:
   profile: dev
 
 name: config-dev
-words: '{cipher}6f4e2106b449c9a9602f1497298de833b34c4ee804461c1a964b9251004ea3eca6ce4c1705cd912e7561231271d8d729'
+words: this is not encode
 age: 18
 config: webhook 
